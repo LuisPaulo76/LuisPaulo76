@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Olá, meu nome é Luis Paulo
 
-Sou um(a) desenvolvedor(a) iniciante apaixonado(a) por tecnologia e programação.  
+Sou um desenvolvedor iniciante apaixonado por tecnologia e programação.  
 Atualmente estou aprendendo **[linguagem principal: ex. Python, JavaScript]** e quero compartilhar minha evolução aqui no GitHub.  
 
 ## 🔧 Tecnologias que estou aprendendo:
