@@ -14,8 +14,8 @@ Atualmente estou aprendendo **[linguagem principal: ex. Python, JavaScript]** e 
 - Construir projetos úteis e criativos  
 
 ## 📫 Como me encontrar
-- LinkedIn: [seu-linkedin]  
-- E-mail: [seu-email]  
+- LinkedIn: 
+- E-mail: luisbartlett95@outlook.com 
 
 ---
 
